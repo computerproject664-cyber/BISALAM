@@ -16,7 +16,7 @@ namespace BISALAM
             string[] strings = { "HELLO", "how are you", "thanks", "i'm fine " };
             a[0] = new ChatterBot(bot1, strings);
             a[1]=new ChatterBot(bot2, strings);
-
+             
             while(true) 
             {
             }
